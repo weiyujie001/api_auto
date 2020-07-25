@@ -1,0 +1,368 @@
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:30:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:31:29 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8766/futureloan/member/login
+2020-07-26 00:31:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 00:37:30 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:37:32 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:48 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Urlhttp://120.78.128.25:8765/futureloan/member/login
+2020-07-26 00:38:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:39:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 鎻愪氦鐨刄rl
+2020-07-26 00:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 璇锋眰缁撴灉鏄�
+2020-07-26 00:51:51 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:52:20 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:53:13 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 00:57:15 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:18:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:22:53 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:24:38 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:27:24 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:35 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:38:36 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:17 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:40:18 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:35) - [ INFO ] -> 提交的Url
+2020-07-26 01:44:12 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:45) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:41 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:45:49 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:03 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:46:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:48:30 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:30 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:30 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:48:31 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:48:59 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:49:00 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:04 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:52:05 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:43 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:53:44 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是{"code":1006,"copyright":"Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved","msg":"请求头X-Lemonban-Media-Type不存在"}
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:36) - [ INFO ] -> 提交的Url
+2020-07-26 01:57:37 method: com.tingge.cases.BaseProcess.test1(BaseProcess.java:46) - [ INFO ] -> 请求结果是

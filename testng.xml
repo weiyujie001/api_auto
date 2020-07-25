@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--测试套件-->
+<suite name="Suite"  >
+    <!--测试模块-->
+    <test name="Test1">
+
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="com.tingge.cases.LoginCase"/>
+        </classes>
+    </test>
+
+
+</suite>
+
